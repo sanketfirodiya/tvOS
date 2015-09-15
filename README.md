@@ -12,4 +12,4 @@
 
 #### Articles
 - [Ray Wenderlich - tvOS initial impressions](http://www.raywenderlich.com/114313/tvos-initial-impressions)
-- [Apple TV — A World Without Webviews](https://medium.com/@dlpasco/apple-tv-a-world-without-webkit-5c428a64a6dd)
+- [Apple TV - A World Without Webviews](https://medium.com/@dlpasco/apple-tv-a-world-without-webkit-5c428a64a6dd)
