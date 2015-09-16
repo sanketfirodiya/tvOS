@@ -9,6 +9,7 @@
 - [Developing tvOS Apps with Swift](http://jamesonquave.com/blog/developing-tvos-apps-for-apple-tv-with-swift/)
 - [Swift and Metal GPU programming on tvOS for the new Apple TV](http://memkite.com/blog/2015/09/09/swift-and-metal-gpu-programming-on-tvos-for-the-new-apple-tv/)
 - [Top Shelf API - Video Tutorial](http://www.madeupbypeople.com/blog/2015/9/9/tvos-tutorial-make-apple-tv-apps)
+- [Hands-on with the tvOS SDK](http://telliott.io/2015/09/15/hands-on-with-the-tvos-sdk.html)
 
 #### Articles
 - [Ray Wenderlich - tvOS initial impressions](http://www.raywenderlich.com/114313/tvos-initial-impressions)
