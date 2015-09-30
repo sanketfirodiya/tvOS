@@ -15,6 +15,7 @@
 - [How to Create Apple TV’s Parallax Effect](https://www.simononstartups.com/how-to-create-apple-tvs-parallax-effect/)
 - [Mastering the tvOS Focus Enginer](http://nerds.airbnb.com/tvos-focus-engine/)
 - [Develop Client-Server App for Apple TV](http://pragma.tv/tutorial/2015/09/11/Client-Server-App-On-Apple-TV.html)
+- [Developing for the Apple TV with tvOS, Swift, Javascript, and TVML](https://www.simononstartups.com/developing-for-the-apple-tv-with-tvos-swift-javascript-and-tvml/)
 
 #### Articles
 - [Ray Wenderlich - tvOS initial impressions](http://www.raywenderlich.com/114313/tvos-initial-impressions)
