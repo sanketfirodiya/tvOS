@@ -13,7 +13,7 @@
 - [Hands-on with the tvOS SDK](http://telliott.io/2015/09/15/hands-on-with-the-tvos-sdk.html)
 - [Client-Server tvOS app](http://www.rockhoppertech.com/blog/apple-tv-tvos-hello-world-app-in-swift/)
 - [How to Create Apple TV’s Parallax Effect](https://www.simononstartups.com/how-to-create-apple-tvs-parallax-effect/)
-- [Mastering the tvOS Focus Enginer](http://nerds.airbnb.com/tvos-focus-engine/)
+- [Mastering the tvOS Focus Engine](http://nerds.airbnb.com/tvos-focus-engine/)
 - [Develop Client-Server App for Apple TV](http://pragma.tv/tutorial/2015/09/11/Client-Server-App-On-Apple-TV.html)
 - [Developing for the Apple TV with tvOS, Swift, Javascript, and TVML](https://www.simononstartups.com/developing-for-the-apple-tv-with-tvos-swift-javascript-and-tvml/)
 - [An introduction tutorial to tvOS and Sprite Kit](http://cartoonsmart.com/an-introduction-tutorial-to-tvos-and-sprite-kit/#initial-setup)
