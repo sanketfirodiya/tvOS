@@ -1,5 +1,5 @@
-###Curated list of tutorials and sample apps for tvOS
---
+## Curated list of tutorials and sample apps for tvOS
+
 #### Developer documentation
 - [Developer Library](https://developer.apple.com/library/prerelease/tvos/navigation/)
 - [Programming Guide](https://developer.apple.com/library/prerelease/tvos/documentation/General/Conceptual/AppleTV_PG/YourFirstAppleTVApp.html)
