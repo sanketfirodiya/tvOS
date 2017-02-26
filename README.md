@@ -17,6 +17,7 @@
 - [Develop Client-Server App for Apple TV](http://pragma.tv/tutorial/2015/09/11/Client-Server-App-On-Apple-TV.html)
 - [Developing for the Apple TV with tvOS, Swift, JavaScript, and TVML](https://www.simononstartups.com/developing-for-the-apple-tv-with-tvos-swift-javascript-and-tvml/)
 - [An introduction tutorial to tvOS and Sprite Kit](http://cartoonsmart.com/an-introduction-tutorial-to-tvos-and-sprite-kit/#initial-setup)
+- [Apple TV Tech Talks Videos](https://developer.apple.com/videos/techtalks-apple-tv/)
 
 #### Articles
 - [Ray Wenderlich - tvOS initial impressions](http://www.raywenderlich.com/114313/tvos-initial-impressions)
