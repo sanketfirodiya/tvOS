@@ -24,6 +24,7 @@
 
 #### Sample Code
 - [TVML Catalog - iOS Developper Library](https://developer.apple.com/library/prerelease/tvos/samplecode/TVMLCatalog/Introduction/Intro.html)
+- [TVML Catalog - Using atvjs framework](https://github.com/emadalam/tvml-catalog-using-atvjs/)
 
 #### Sample Apps
 - [ARNClassicFilms - An open tvOS app for free and public available classic films](https://github.com/sarn/ARNClassicFilms)
