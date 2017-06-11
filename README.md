@@ -34,6 +34,8 @@
 #### Components
 - [TVOSButton](https://github.com/movielala/TVOSButton)
 - [TVOSToast](https://github.com/movielala/TVOSToast)
+- [TvLightSegments](https://github.com/macabeus/TvLightSegments)
+- [FocusGuideHelper](https://github.com/macabeus/FocusGuideHelper)
 
 #### Further resources
 - (https://github.com/hamishtaplin/tvos-resources)
